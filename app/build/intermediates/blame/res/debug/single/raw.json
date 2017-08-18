@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\raw\\realm_properties"
+    }
+]

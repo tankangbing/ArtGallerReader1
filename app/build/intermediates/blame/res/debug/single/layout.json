@@ -1,0 +1,1186 @@
+[
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sbjump.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\sbjump.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_bottom.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_menu_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\faqihuodong.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\faqihuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localshujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\localshujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\publicclass_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\publicclass_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\turnpage3.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_detail.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\zhichang_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_video.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_choose_video.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myhuodong.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\myhuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_top.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_menu_top.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_result.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\yaoyiyao_result.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_zlj.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kong_zlj.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiugai_password.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xiugai_password.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_bg.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\change_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_settings.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\personal_settings.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage2.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\turnpage2.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\publicclass_content.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\publicclass_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichangcontent.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\zhichangcontent.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_data.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kong_data.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_detail.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\zhichang_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\ziliaojia_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\zhichang_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_mainitem.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\classicbooks_mainitem.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_ziliao.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\personal_ziliao.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\net.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\huodong_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kcmanage.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kcmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\turnpage1.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\zhichang_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\faqihuodong.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\faqihuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localshujia.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\localshujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ledview.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\ledview.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\yaoyiyao_list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_top.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_menu_top.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_activity.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\guide_activity.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chapter_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_chapter_list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test1.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\test1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_pager.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\image_detail_pager.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xxxxxxx.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xxxxxxx.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\ziliaojia_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichangcontent.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\zhichangcontent.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_result.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\yaoyiyao_result.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_shujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kong_shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiugai_password.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xiugai_password.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiugai_password.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xiugai_password.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide1.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\guide1.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_ziliao.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\personal_ziliao.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xxxxxxx.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xxxxxxx.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_result.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\yaoyiyao_result.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jiaxiaoxi.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\jiaxiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sbjump.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\sbjump.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myzhichang.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\myzhichang.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnmain3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\turnmain3.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\yaoyiyao.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kc_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_bottom.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_menu_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\guide3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_shujia.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kong_shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_video.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\view_video.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shujia.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\classicbooks_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_top.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_menu_top.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_bottom.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_menu_bottom.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\type_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichangcontent.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\zhichangcontent.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xxxxxxx.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xxxxxxx.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\test1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myhuodong.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\myhuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\zhichang_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_detail.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\huodong_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\classicbooks_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_data.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kong_data.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridbt.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\gridbt.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xiaoxi_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide2.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\guide2.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xiaoxi_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\huodong_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\huodong_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_xiangxi.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\book_xiangxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\turnpage1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\manage_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kc_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage1.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\turnpage1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\net.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xiaoxi_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chapter_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_chapter_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\main_menu_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\zhichang_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbook_content.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\classicbook_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage2.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\turnpage2.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_kecheng.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kong_kecheng.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_manege.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\download_manege.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\faqihuodong.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\faqihuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_led.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_led.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridbt.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\gridbt.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_shujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kong_shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\net.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\net.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xiaoxi_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_activity.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\guide_activity.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_main.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\classicbooks_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\yaoyiyao.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\publicclass_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\publicclass_content.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_data.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kong_data.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\main_menu_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_main.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xiaoxi_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pingbi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\pingbi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kc_list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\manage_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_contenturl.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kc_contenturl.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localshujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\localshujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\zhichang_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_led.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_led.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_content.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xiaoxi_content.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_settings.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\personal_settings.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jiaxiaoxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\jiaxiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myhuodong.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\myhuodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlmanage.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\dlmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\test1.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dllist_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\dllist_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\zhichang_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sbjump.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\sbjump.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_kecheng.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kong_kecheng.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\classicbooks_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_kecheng.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kong_kecheng.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\yaoyiyao_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_zlj.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kong_zlj.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kcmanage.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kcmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\classicbooks_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlmanage.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\dlmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xiaoxi_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\manage_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_detail.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\huodong_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_led.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_led.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\huodong_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myzhichang.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\myzhichang.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_detail_fragment.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_settings.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\personal_settings.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xiaoxi_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\guide3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_zlj.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kong_zlj.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\guide1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\huodong_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\yaoyiyao.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\ziliaojia.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_detail.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\huodong_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_manege.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\download_manege.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dllist_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\dllist_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage2.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\turnpage2.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\main_menu_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage3.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\turnpage3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xiaoxi_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_activity.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\guide_activity.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\huodong.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_main.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\classicbooks_main.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_xiaoxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kong_xiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ledview.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\ledview.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jiaxiaoxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\jiaxiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_contenturl.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\kc_contenturl.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\type_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_mainitem.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\classicbooks_mainitem.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yaoyiyao_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\yaoyiyao_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_ziliao.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\personal_ziliao.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_bg.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\change_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnpage3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\turnpage3.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridbt.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\gridbt.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide3.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\guide3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_manege.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\download_manege.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbook_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\classicbook_content.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chapter_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\activity_chapter_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kcmanage.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kcmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_xiaoxi.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kong_xiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\guide1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbook_content.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\classicbook_content.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_list_item.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\huodong_list_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_xiangxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\book_xiangxi.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\ziliaojia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\classicbooks_mainitem.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\classicbooks_mainitem.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kc_contenturl.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\kc_contenturl.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide2.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\guide2.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlmanage.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\dlmanage.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnmain3.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\turnmain3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shujia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\shujia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_list.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\turnmain3.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\turnmain3.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kong_xiaoxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\kong_xiaoxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dllist_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\dllist_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zhichang_detail.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\zhichang_detail.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_bg.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\change_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\type_item.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\ziliaojia_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide2.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\guide2.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myzhichang.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\myzhichang.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_xiangxi.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\book_xiangxi.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ziliaojia.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\layout\\ziliaojia.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ledview.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\ledview.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

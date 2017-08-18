@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.artgaller.reader"
+        minSdkVersion 16
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+//    compile 'com.android.support:support-v4:25.3.1'
+    compile files('libs/antlr-2.7.4.jar')
+    compile files('libs/aphid-FilpView-Library.jar')
+    compile files('libs/BASE64.jar')
+    compile files('libs/chardet-1.0.jar')
+    compile files('libs/cpdetector_1.0.10.jar')
+    compile files('libs/jargs-1.0.jar')
+//    compile files('libs/okhttp-2.7.5.jar')
+//    compile files('libs/okio-1.7.0.jar')
+    compile files('libs/support-annotations-22.2.0.jar')
+    compile files('libs/thinkandroid-1.1-bin.jar')
+    compile files('libs/umeng-analytics-v5.6.4.jar')
+    compile files('libs/universal-image-loader-1.8.6-with-sources.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/zxing.jar')
+
+
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.squareup.okhttp3:okhttp:3.3.1'
+    compile 'com.zhy:okhttputils:2.0.0'
+    compile 'com.android.support:multidex:1.0.1'
+}

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.artgaller.reader"
+    android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DEVICE_POWER" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:name="com.artgaller.reader.utils.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomTheme"
+        android:largeHeap="true"
+        android:hardwareAccelerated="false" >
+        <activity
+            android:name="com.artgaller.reader.activity.FirstActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.GuideActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.LoginActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ShuJiaActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity 
+            android:name="com.artgaller.reader.activity.MainMenuActivity"
+            android:label="@string/action_reader"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.Personal_Settings"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.KechengActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ZiLiaoJiaActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ZiLiaoJiaManageActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.XiaoXiActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.YaoYiYaoActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.XiuGaiPassword"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.LocalShuJiaActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.MipcaActivityCapture"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.BookXiangxiActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.YaoYiYaoResult"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.NetActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.XiaoXiContentActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ClassicBooksMainActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ClassicBooksListActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ClassicBooksContentActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.NewBooksContentActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.NewBooksListActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.NewBooksMainActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.PublicClassListActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.PublicClassMainActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.PublicClassContentActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.KeChengXiangxiActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.DownloadManageActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.KeChengManageActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.AboutActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.HuoDoFngListActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.FaQiHuoDongActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.MyHuoDongListActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.HuoDongDetailsActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ZhiChangListActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ZhiChangDetailsActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.WebActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.MyZhiChangListActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ImagePagerActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.CustomMenuActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ChangeBGActivity"
+            android:label="@string/action_reader"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.LEDActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Turnmain3"
+            android:label="@string/title_activity_turnmain3"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.ChapterList"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.MenuTopActivity"
+            android:label="@string/title_activity_menu_top"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.MenuBottomActivity"
+            android:label="@string/title_activity_menu_bottom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Turnpage1"
+            android:label="@string/title_activity_turnpage1"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Turnpage2"
+            android:label="@string/title_activity_turnpage2"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Turnpage3"
+            android:label="@string/title_activity_turnpage3"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Test1"
+            android:label="@string/title_activity_test1"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.SBjump"
+            android:label="@string/title_activity_sbjump"
+            android:screenOrientation="portrait"
+            android:theme="@style/customDialog" >
+        </activity>
+        <activity
+            android:name="com.artgaller.epub.Setup"
+            android:label="@string/title_activity_setup"
+            android:screenOrientation="portrait"
+            android:theme="@style/customDialog" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.Exit"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.HuoDongActivity"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+        <!-- android:hardwareAccelerated="true" 视频硬件加速器-->
+        <activity
+            android:name="com.artgaller.reader.activity.PingBiActivity"
+            android:screenOrientation="portrait"
+            android:hardwareAccelerated="true"
+            >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.DownloadActivity"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+        <activity
+            android:name="com.artgaller.reader.activity.ChooseVideoActivity"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+
+        <service android:name="com.artgaller.reader.utils.UpdataAPK" >
+        </service>
+
+        <receiver android:name="com.ta.util.netstate.TANetworkStateReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="ta.android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        
+        <meta-data android:value="56d79c1de0f55aff120028b1" android:name="UMENG_APPKEY"></meta-data>
+        <meta-data android:value="Channel ID" android:name="UMENG_CHANNEL"/>
+    </application>
+
+</manifest>

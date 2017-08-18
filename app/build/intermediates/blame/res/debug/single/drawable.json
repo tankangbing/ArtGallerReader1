@@ -1,0 +1,922 @@
+[
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_orange_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\huodong_orange_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_selector.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\custom_menu_selector.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_0.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_0.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top2x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_pressed.9.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_6.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_6.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_upcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\layout_upcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.9.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_signupbtn.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\huodong_signupbtn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_dn.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bar_dn.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_dn.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bar_dn.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom3x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_l_nor.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_4.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_selector.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\custom_menu_selector.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_checked.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_allcorners.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\layout_allcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom3x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_upcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\layout_upcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style1.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\seekbar_style1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.9.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_press.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\lightdown_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_green_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\huodong_green_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bottomcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\layout_bottomcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_up.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bar_up.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon3.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\icon3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_normal.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom2x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top3x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_l_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom4x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_6.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_6.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_orange_tag.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\huodong_orange_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_r_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_state.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\checkbox_state.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon2.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_1.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_allcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\layout_allcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\icon4.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom1x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top3x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom1.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_green_tag.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\huodong_green_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_selector.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\custom_menu_selector.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom2x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_2.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom4x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_blue_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\huodong_blue_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\icon3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover26.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\cover26.jpg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\lightdown_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_normal.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_signupbtn.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\huodong_signupbtn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom3x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover26.jpg",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\cover26.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_orange_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\huodong_orange_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_disable.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_l_disable.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_upcorners.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\layout_upcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover133.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\cover133.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_5.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_thumb.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\progressbar_thumb.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_disable.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_l_disable.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_blue_tag.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\huodong_blue_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_header.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\custom_menu_header.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top1x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_5.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\seekbar_style1.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checked.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_checked.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover26.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\cover26.jpg"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_nor.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\lightdown_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_l_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\lightdown_press.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_press.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_r_press.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_press.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\lightup_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_r_press.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover57.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\cover57.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_r_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom4.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_press.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_l_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_nor.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\lightup_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style1.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\seekbar_style1.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\lightup_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\lightup_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checked.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_checked.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_6.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_6.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_0.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_0.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\lightup_press.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_nor.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_l_nor.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_3.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_signupbtn.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\huodong_signupbtn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_checked.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\page_indicator.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover57.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\cover57.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top2x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.9.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\page_indicator.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\lightdown_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom1x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_up.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bar_up.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_pressed.9.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_blue_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\huodong_blue_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_header.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\custom_menu_header.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom2.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bottomcorners.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\layout_bottomcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_normal.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover133.jpg",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\cover133.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_l_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_thumb.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\progressbar_thumb.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_l_disable.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_l_disable.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightdown_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\lightdown_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\icon4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_r_nor.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_header.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\custom_menu_header.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_0.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_0.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_disable.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\arrow_r_disable.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bottomcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\layout_bottomcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom2x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom2x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huodong_green_tag.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\huodong_green_tag.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_press.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_allcorners.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\layout_allcorners.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_5.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_5.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom1x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom1x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top1x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\icon3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top1x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_top1x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\menu_bottom4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_checked.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_thumb.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\progressbar_thumb.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_dn.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bar_dn.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_4.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_4.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_state.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\checkbox_state.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top2x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top2x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover133.jpg",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\cover133.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightup_nor.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\lightup_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_up.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bar_up.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\page_indicator.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cover57.jpg",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\cover57.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4x.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_bottom4x.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon4.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\icon4.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_top3.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_pressed.9.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\menu_item_pressed.9.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_nor.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_r_nor.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_top3x.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_top3x.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_bottom4.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\menu_bottom4.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_disable.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\arrow_r_disable.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_checked.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\bg_checked.png"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_press.png",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg_press.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_2.png",
+        "source": "E:\\code\\hn\\ArtGallerReader\\app\\src\\main\\res\\drawable\\bg_2.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_r_disable.png",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\arrow_r_disable.png"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_state.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\src\\main\\res\\drawable\\checkbox_state.xml"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\code\\fangyi\\SanMingReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "E:\\code\\fangyi\\SanMingReader1\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    }
+]

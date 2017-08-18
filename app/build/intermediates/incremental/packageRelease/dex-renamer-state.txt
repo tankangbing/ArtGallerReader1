@@ -1,0 +1,4 @@
+#Thu Aug 17 16:30:21 GMT+08:00 2017
+base.0=E\:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\code\\hn\\ArtGallerReader1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

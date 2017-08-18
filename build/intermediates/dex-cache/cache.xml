@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\volley_0c1578b79cfea233dce56b7a4fd1ce1aa1d77088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\jargs-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c40b72d934ddbea05368df91456f4d3689296dd">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\jargs-1.0_6d49fd562a85953e1c082bfd96f20b58567304a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\cpdetector_1.0.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10_a18d0c674046e8a03311834aafca039e59706248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_6a343a196aa7afe5b3ef6695842ccb6eb66e9db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\zxing_bb08ab7a1d73b8c5b5200f172660400d929dd334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\cpdetector_1.0.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10_e89d70ffc4c8f2b68e175686f20b7b6ed4f47dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_d782baaba7a3c3c22db6240f61fa7f0886e61575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\thinkandroid-1.1-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e05bea410c813743576590b30bce3e49b2956ae">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\thinkandroid-1.1-bin_37bbcae6fee4b02e7df7d7dc78b50e0cae754936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\thinkandroid-1.1-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e05bea410c813743576590b30bce3e49b2956ae">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\thinkandroid-1.1-bin_b81c099401711bcb46cfa2460e32fb3b05211243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\volley_8d6dc54c9a5a7f3bcd6f7c4821e117de6dbd38cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\antlr-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\antlr-2.7.4_cbdcdc13eef42eb8c22d67a6775751949f66109e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\antlr-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\antlr-2.7.4_2388de35e3b2fa58643fa10181e78855cb86b715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_5bcf60037eb773ed0a56ec4be58f6e87fc7ec4bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\deve\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bacd01b31162dad133ec7ca59dc2d3b3fa81eff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_fd7211b62195dd466b5ae45eaf4e1bd396d39b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\cpdetector_1.0.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10_d2c4802ecdca02da7d58e1540e8ab4e7d13b9909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_c5a573687790528960a2cdb5042d396490d51899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\deve\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_09e4002160828fb4cd5f5f3fae985ae11f26749c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\chardet-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\chardet-1.0_ae664c8d6cca73ba8251f74d3a9036bacf1330fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\antlr-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\antlr-2.7.4_9015ddfef3d13bd5a6495fa6358fc721c407b3ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fdb2999a05364a8f66f4985624e18e949427d4ee">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.0.0_80e825199ee6db1fd36d1a384ba0111f6d527efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\chardet-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\chardet-1.0_a07aed973e39f6d808dfc9366d7f02c9ad2e1dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_8700a721515c657d09900378586420b26a01d50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_3a3ed435097baf67d3ccc30941d77dddfa8d0757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_15028438a16971a688fa44731a45ce6f030461a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\chardet-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\chardet-1.0_328b2274c59d276bb392bb79d5740451b278b330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\volley_fdf857ee61c82770a16cd1122db0d7ec335c223a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\okio-1.7.0_a1f35b725e6d2ee8a794340f7c8028cd02c59560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\jargs-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c40b72d934ddbea05368df91456f4d3689296dd">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\jargs-1.0_653f78394019a9969d09a4b4214ee0aed40748e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_d24f2250dbb39aeef750aabb295d3bfe00627e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_e5afed1435edd142047a2630d30bed3d5829e3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\BASE64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\BASE64_64ea509a815ce7f02cf9c6628e22c6d9f63c1498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_029472be9de7bfc004b24c335e777817e734657f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\zxing_20d01b72c5a4f6926aa8acb99682e581b0fd9974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\okio-1.7.0_a8a52558c5faf230667e48b9055e2d096d46714e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\zxing_f615df15995ec361ad79db644dd9b36149c9e054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_bb131e73447fcb95909a5e98977355b06dae7843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\BASE64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\BASE64_2512a54def9526b71f7828ef27478b331edee2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_13483b84727a8d04344c3487471696efb37ca754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_9ba3d146d0efa62ce13421df9d0cfccb33c6a872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_d18af5f3e5d15a2da0937e5ed114de6f84a33cbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_e4728e507fc634568376ffcdce5e47425da02656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\libs\thinkandroid-1.1-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e05bea410c813743576590b30bce3e49b2956ae">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\thinkandroid-1.1-bin_60305a4014362e700a8593c3f98cbbecaa338911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_dfd218d8220ca8f474ea5b3a4ba2296898d21726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="E:\code\hn\ArtGallerReader\app\build\intermediates\pre-dexed\debug\okio-1.7.0_9fc309c0c5c6409dfd4d625a90a9057cc0f53976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_ce656451b7d2eb528c80acde86f1c0bacf99ef72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\jargs-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c40b72d934ddbea05368df91456f4d3689296dd">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\jargs-1.0_9e497b671d6dadb2a67ca1e2daa9b2935ef92a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d76292e4cec0c7316aca7289e33ec9fc8a33f020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\umeng-analytics-v5.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.4_09ce7f65238b57afb36c59b50c86a85c064fb67e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\BASE64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\BASE64_298db4d88d8ea5bca6b997b33f374f46c2dcbda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\hn\ArtGallerReader1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\code\hn\ArtGallerReader1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_f14b70838e8c8091a9dc94ded5b0476be296a958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\code\fangyi\SanMingReader1\app\libs\aphid-FilpView-Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aabcab4ed451cd0b2f4cf88b64d5893d490dfdb2">
+        <dex dex="E:\code\fangyi\SanMingReader1\app\build\intermediates\pre-dexed\debug\aphid-FilpView-Library_27a8361cc713908a7f92a2807a563d7771494493.jar" />
+    </item>
+
+</items>
