@@ -64,7 +64,7 @@ public class Personal_Settings extends BaseActivity implements OnClickListener {
 		nowUser = (Button) findViewById(R.id.personal_nowUser);
 		swapUser = (Button) findViewById(R.id.personal_swapUser);
 		jiancha = (Button) findViewById(R.id.personal_jiancha);
-		about = (Button) findViewById(R.id.personal_about);
+//		about = (Button) findViewById(R.id.personal_about);
 		dlmanage = (Button) findViewById(R.id.personal_dlmanage);
 		customMenu = (Button) findViewById(R.id.personal_CustomMenu);
 		changeBG = (Button) findViewById(R.id.personal_ChangeBG);
@@ -74,7 +74,7 @@ public class Personal_Settings extends BaseActivity implements OnClickListener {
 		back.setOnClickListener(this);
 		swapUser.setOnClickListener(this);
 		jiancha.setOnClickListener(this);
-		about.setOnClickListener(this);
+//		about.setOnClickListener(this);
 		dlmanage.setOnClickListener(this);
 		customMenu.setOnClickListener(this);
 		changeBG.setOnClickListener(this);
@@ -192,11 +192,11 @@ public class Personal_Settings extends BaseActivity implements OnClickListener {
 					});
 			queue.add(request);
 			break;
-		case R.id.personal_about:
-			Intent about = new Intent();
-			about.setClass(activity, AboutActivity.class);
-			activity.startActivity(about);
-			break;
+//		case R.id.personal_about:
+//			Intent about = new Intent();
+//			about.setClass(activity, AboutActivity.class);
+//			activity.startActivity(about);
+//			break;
 		case R.id.personal_dlmanage:
 			CharSequence[] items = { "本地图书管理", "课程管理", "资料夹管理", "取消" };
 			new AlertDialog.Builder(Personal_Settings.this).setTitle("")
